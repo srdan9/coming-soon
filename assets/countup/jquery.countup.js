@@ -80,7 +80,9 @@
 				</span>\
 				<span class="position">\
 					<span class="digit static">0</span>\
-				</span>'
+				</span>\
+				<br/>\
+				<span class="s1-txt1 where1 p-l-35">'+this+'</span>'
 			).appendTo(elem);
 			
 			if(this!="Seconds"){
